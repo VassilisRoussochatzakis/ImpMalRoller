@@ -1,0 +1,9 @@
+# Bot credentials (BOT_TOKEN) — never commit
+constants.py
+
+# Python bytecode (a compiled constants.py contains the token too)
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
